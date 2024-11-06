@@ -1,5 +1,5 @@
-# Robotic Control via Embodied Chain-of-Thought Reasoning
-## EdgeECoT: Optimized Vision-Language-Action model with embodied chain-of-thought reasoning on edge device 
+//# Robotic Control via Embodied Chain-of-Thought Reasoning
+# EdgeECoT: Optimized Vision-Language-Action model with embodied chain-of-thought reasoning on edge device 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2407.08693-df2a2a.svg)](https://arxiv.org/pdf/2407.08693)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg?style=for-the-badge)](https://colab.research.google.com/drive/1CzRKin3T9dl-4HYBVtuULrIskpVNHoAH?usp=sharing)
